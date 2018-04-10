@@ -1,5 +1,3 @@
-//		https://output.jsbin.com/vupodeb
-//		https://www.w3schools.com/tags/ref_canvas.asp
 var canvas = document.querySelector('canvas');
 console.log(canvas);
 
