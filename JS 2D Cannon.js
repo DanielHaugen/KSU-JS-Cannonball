@@ -1006,6 +1006,13 @@ function animate(){
 	ctx.fillText(Math.round(angleDegs*100)/100 + '°', canvas.width - 110, 50);
 	ctx.fillText(Math.round( (angleRads / Math.PI) *100)/100 + '  π', canvas.width - 110, 80);
 	ctx.fillText(Math.round(angleRads*100)/100 + '  rads', canvas.width - 110, 110);
+	
+	// Created By
+	ctx.font = "20px Times New Roman";
+	ctx.textAlign = 'center';
+
+	ctx.fillText('Created by:', 70, 20);
+	ctx.fillText('Daniel Haugen', 70, 40);
 }
 
 init();
