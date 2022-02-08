@@ -21,7 +21,7 @@
 
 ## About
 
-Volunteer opportunity to worked with a KSU physics professor, during my senior year of high school, to create a physics simulation available online for students and professors. The purpose is to demonstrate the trajectory of a projectile, with emphasis on being used as a teaching tool for the subject of kinematics. The program is developed primarily in JavaScript, with HTML as the backbone for the webpage.
+olunteer position working alongside Dr. Ben Rybolt, a KSU physics professor, to create a physics simulation available online for students and professors. The program was created mainly through base JavaScript for the purpose of portability and ease-of-access in an online platform. The purpose of the tool is to demonstrate the trajectory of a projectile, with emphasis on being used as a teaching tool for the subject of kinematics.
 
 ## Project Demo
 [![image](https://user-images.githubusercontent.com/18473793/134574000-1f0c4b59-396b-414a-9e18-a4df1fe27fdf.png)](https://output.jsbin.com/vupodeb)
